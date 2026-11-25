@@ -1,6 +1,6 @@
 {
  "title": "PIONEER PSI December Run 2026 - Shift Schedule",
- "updated": "2026-11-25 10:26",
+ "updated": "2026-11-25 10:34",
  "meeting": {
   "room": "TBD",
   "zoom": ""
@@ -10,9 +10,9 @@
  "switchboard": [
   {
    "name": "Slack",
-   "desc": "Run channel (join request)",
+   "desc": "Run channel (members only)",
    "icon": "chat",
-   "url": "https://join.slack.com/share/enQtMTI2OTY1MTg3NjYyMzEtYjFmMzdmMzY3NjZhYTVmZWNjNTJhNDI4ZjgxMjhjOWIzMzgxMzE3MDIyNWFiYmRhODA3YTY2MDMxODdlY2ZlYw"
+   "url": "https://pienuxe.slack.com/archives/C0BRMT4B800"
   },
   {
    "name": "Elog",
