@@ -1,0 +1,893 @@
+{
+ "title": "PIONEER PSI December Run 2026 - Shift Schedule",
+ "updated": "2026-11-25 09:38",
+ "meeting": {
+  "time": "16:00 (Zurich time)",
+  "room": "TBD",
+  "zoom": ""
+ },
+ "shifts": [
+  {
+   "key": "C",
+   "name": "Owl",
+   "time": "00:00–08:30",
+   "roles": [
+    {
+     "key": "RC",
+     "name": "Run coordinator"
+    },
+    {
+     "key": "ATAR",
+     "name": "ATAR"
+    },
+    {
+     "key": "MS",
+     "name": "Main shifter"
+    }
+   ]
+  },
+  {
+   "key": "A",
+   "name": "Day",
+   "time": "08:00–16:30",
+   "roles": [
+    {
+     "key": "RC",
+     "name": "Run coordinator"
+    },
+    {
+     "key": "ATAR",
+     "name": "ATAR"
+    },
+    {
+     "key": "SUP",
+     "name": "Support / DAQ"
+    },
+    {
+     "key": "MS",
+     "name": "Main shifter"
+    }
+   ]
+  },
+  {
+   "key": "B",
+   "name": "Evening",
+   "time": "16:00–00:30",
+   "roles": [
+    {
+     "key": "RC",
+     "name": "Run coordinator"
+    },
+    {
+     "key": "ATAR",
+     "name": "ATAR"
+    },
+    {
+     "key": "SUP",
+     "name": "Support / DAQ"
+    },
+    {
+     "key": "MS",
+     "name": "Main shifter"
+    }
+   ]
+  }
+ ],
+ "oncallKeys": [
+  "DAQ",
+  "Beam",
+  "MuPix",
+  "ATAR"
+ ],
+ "people": [
+  "Adam",
+  "Andreas",
+  "Bradley",
+  "Chloé",
+  "Dave",
+  "David G",
+  "Francesco",
+  "Fred",
+  "Gianna",
+  "Jack",
+  "Jessie",
+  "Josh",
+  "Kolja",
+  "Marius",
+  "Meghan",
+  "Patrick",
+  "Peter",
+  "Quentin",
+  "Sean",
+  "Stefan",
+  "Thomas",
+  "Tim G",
+  "Timon",
+  "Wren"
+ ],
+ "days": [
+  {
+   "date": "2026-11-29",
+   "slots": {
+    "A": {
+     "RC": "Peter",
+     "ATAR": "Fred",
+     "SUP": "Jack",
+     "MS": "Meghan"
+    },
+    "B": {
+     "RC": null,
+     "ATAR": "Bradley",
+     "SUP": "Patrick",
+     "MS": null
+    }
+   },
+   "satellite": {
+    "rooms": [],
+    "conf": ""
+   },
+   "oncall": {
+    "DAQ": "Jack",
+    "Beam": "Patrick",
+    "MuPix": "",
+    "ATAR": "Bradley"
+   }
+  },
+  {
+   "date": "2026-11-30",
+   "slots": {
+    "A": {
+     "RC": "Peter",
+     "ATAR": "Fred",
+     "SUP": "Stefan",
+     "MS": "Meghan"
+    },
+    "B": {
+     "RC": "Quentin",
+     "ATAR": "Adam",
+     "SUP": "Patrick",
+     "MS": "Jessie"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 105"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Jack",
+    "Beam": "Patrick",
+    "MuPix": "",
+    "ATAR": "Bradley"
+   }
+  },
+  {
+   "date": "2026-12-01",
+   "slots": {
+    "A": {
+     "RC": "Peter",
+     "ATAR": "Bradley",
+     "SUP": "Stefan",
+     "MS": "Kolja"
+    },
+    "B": {
+     "RC": "Quentin",
+     "ATAR": "Adam",
+     "SUP": "Jack",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 103"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Jack",
+    "Beam": "Patrick",
+    "MuPix": "",
+    "ATAR": "Bradley"
+   }
+  },
+  {
+   "date": "2026-12-02",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Jessie",
+     "MS": "Meghan"
+    },
+    "A": {
+     "RC": "Peter",
+     "ATAR": "Bradley",
+     "SUP": "Patrick",
+     "MS": "Kolja"
+    },
+    "B": {
+     "RC": "Quentin",
+     "ATAR": "Adam",
+     "SUP": "Jack",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 105"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Jack",
+    "Beam": "Patrick",
+    "MuPix": "",
+    "ATAR": "Bradley"
+   }
+  },
+  {
+   "date": "2026-12-03",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Jessie",
+     "MS": "Meghan"
+    },
+    "A": {
+     "RC": null,
+     "ATAR": "Fred",
+     "SUP": "Patrick",
+     "MS": "Kolja"
+    },
+    "B": {
+     "RC": null,
+     "ATAR": "Adam",
+     "SUP": "Jack",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 105"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Jack",
+    "Beam": "Patrick",
+    "MuPix": "",
+    "ATAR": "Bradley"
+   }
+  },
+  {
+   "date": "2026-12-04",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Jessie",
+     "MS": "Gianna"
+    },
+    "A": {
+     "RC": null,
+     "ATAR": "Fred",
+     "SUP": "Patrick",
+     "MS": "Kolja"
+    },
+    "B": {
+     "RC": null,
+     "ATAR": "Bradley",
+     "SUP": "Stefan",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 101"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Jack",
+    "Beam": "Patrick",
+    "MuPix": "",
+    "ATAR": "Bradley"
+   }
+  },
+  {
+   "date": "2026-12-05",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Adam",
+     "MS": "Gianna"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Fred",
+     "SUP": null,
+     "MS": "Meghan"
+    },
+    "B": {
+     "RC": "Peter",
+     "ATAR": "Bradley",
+     "SUP": "Jack",
+     "MS": null
+    }
+   },
+   "satellite": {
+    "rooms": [],
+    "conf": ""
+   },
+   "oncall": {
+    "DAQ": "Jack",
+    "Beam": "Patrick",
+    "MuPix": "",
+    "ATAR": "Bradley"
+   }
+  },
+  {
+   "date": "2026-12-06",
+   "slots": {
+    "C": {
+     "RC": null,
+     "ATAR": "Adam",
+     "MS": "Gianna"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Fred",
+     "SUP": null,
+     "MS": "Meghan"
+    },
+    "B": {
+     "RC": "Peter",
+     "ATAR": "Bradley",
+     "SUP": "Jack",
+     "MS": "Jessie"
+    }
+   },
+   "satellite": {
+    "rooms": [],
+    "conf": ""
+   },
+   "oncall": {
+    "DAQ": "Jack",
+    "Beam": "Patrick",
+    "MuPix": "",
+    "ATAR": "Bradley"
+   }
+  },
+  {
+   "date": "2026-12-07",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Adam",
+     "MS": "Kolja"
+    },
+    "A": {
+     "RC": "Dave",
+     "ATAR": "Andreas",
+     "SUP": "Stefan",
+     "MS": "Meghan"
+    },
+    "B": {
+     "RC": "Peter",
+     "ATAR": "Bradley",
+     "SUP": "Patrick",
+     "MS": "David G"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 101"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Patrick",
+    "Beam": "Peter",
+    "MuPix": "Marius",
+    "ATAR": "Adam"
+   }
+  },
+  {
+   "date": "2026-12-08",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Gianna",
+     "MS": "Timon"
+    },
+    "A": {
+     "RC": "Dave",
+     "ATAR": "Andreas",
+     "SUP": "Stefan",
+     "MS": "Meghan"
+    },
+    "B": {
+     "RC": "Quentin",
+     "ATAR": "Fred",
+     "SUP": "Patrick",
+     "MS": "David G"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 103"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Patrick",
+    "Beam": "Peter",
+    "MuPix": "Marius",
+    "ATAR": "Adam"
+   }
+  },
+  {
+   "date": "2026-12-09",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Gianna",
+     "MS": "Timon"
+    },
+    "A": {
+     "RC": "Dave",
+     "ATAR": "Andreas",
+     "SUP": "Stefan",
+     "MS": "Kolja"
+    },
+    "B": {
+     "RC": "Peter",
+     "ATAR": "Jessie",
+     "SUP": "Patrick",
+     "MS": "David G"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBWB 011",
+     "WSLA B112 (SLS building)"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Patrick",
+    "Beam": "Peter",
+    "MuPix": "Marius",
+    "ATAR": "Adam"
+   }
+  },
+  {
+   "date": "2026-12-10",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Gianna",
+     "MS": "Adam"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Fred",
+     "SUP": "Kolja",
+     "MS": "Meghan"
+    },
+    "B": {
+     "RC": "Peter",
+     "ATAR": "Jessie",
+     "SUP": "Jack",
+     "MS": "David G"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 105"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Patrick",
+    "Beam": "Peter",
+    "MuPix": "Marius",
+    "ATAR": "Adam"
+   }
+  },
+  {
+   "date": "2026-12-11",
+   "slots": {
+    "C": {
+     "RC": "Dave",
+     "ATAR": "Andreas",
+     "MS": "Adam"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Fred",
+     "SUP": "Stefan",
+     "MS": "Meghan"
+    },
+    "B": {
+     "RC": "Peter",
+     "ATAR": "Jessie",
+     "SUP": "Patrick",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 101"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Patrick",
+    "Beam": "Peter",
+    "MuPix": "Marius",
+    "ATAR": "Adam"
+   }
+  },
+  {
+   "date": "2026-12-12",
+   "slots": {
+    "C": {
+     "RC": "Dave",
+     "ATAR": "Andreas",
+     "MS": "Kolja"
+    },
+    "A": {
+     "RC": "Fred",
+     "ATAR": "Gianna",
+     "SUP": "Jack",
+     "MS": "Chloé"
+    },
+    "B": {
+     "RC": "Peter",
+     "ATAR": "Jessie",
+     "SUP": "Patrick",
+     "MS": "David G"
+    }
+   },
+   "satellite": {
+    "rooms": [],
+    "conf": ""
+   },
+   "oncall": {
+    "DAQ": "Patrick",
+    "Beam": "Peter",
+    "MuPix": "Marius",
+    "ATAR": "Adam"
+   }
+  },
+  {
+   "date": "2026-12-13",
+   "slots": {
+    "C": {
+     "RC": "Dave",
+     "ATAR": "Andreas",
+     "MS": "Timon"
+    },
+    "A": {
+     "RC": "Fred",
+     "ATAR": "Gianna",
+     "SUP": "Stefan",
+     "MS": "Chloé"
+    },
+    "B": {
+     "RC": "Tim G",
+     "ATAR": "Adam",
+     "SUP": "Patrick",
+     "MS": "Wren"
+    }
+   },
+   "satellite": {
+    "rooms": [],
+    "conf": ""
+   },
+   "oncall": {
+    "DAQ": "Patrick",
+    "Beam": "Peter",
+    "MuPix": "Marius",
+    "ATAR": "Adam"
+   }
+  },
+  {
+   "date": "2026-12-14",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Jessie",
+     "MS": "Timon"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Gianna",
+     "SUP": "Stefan",
+     "MS": "Chloé"
+    },
+    "B": {
+     "RC": "Tim G",
+     "ATAR": "Adam",
+     "SUP": "Patrick",
+     "MS": "Wren"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 101"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Sean",
+    "Beam": "Timon",
+    "MuPix": "Thomas",
+    "ATAR": null
+   }
+  },
+  {
+   "date": "2026-12-15",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Jessie",
+     "MS": "Kolja"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Gianna",
+     "SUP": "Stefan",
+     "MS": "Chloé"
+    },
+    "B": {
+     "RC": "Tim G",
+     "ATAR": "Adam",
+     "SUP": "Jack",
+     "MS": "Wren"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 103"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Sean",
+    "Beam": "Timon",
+    "MuPix": "Thomas",
+    "ATAR": null
+   }
+  },
+  {
+   "date": "2026-12-16",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Jessie",
+     "MS": "Kolja"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": null,
+     "SUP": "Patrick",
+     "MS": "Chloé"
+    },
+    "B": {
+     "RC": "Tim G",
+     "ATAR": "Adam",
+     "SUP": "Jack",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBWA 210"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Sean",
+    "Beam": "Timon",
+    "MuPix": "Thomas",
+    "ATAR": null
+   }
+  },
+  {
+   "date": "2026-12-17",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Jessie",
+     "MS": null
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Gianna",
+     "SUP": "Patrick",
+     "MS": "Wren"
+    },
+    "B": {
+     "RC": "Francesco",
+     "ATAR": null,
+     "SUP": "Jack",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 105"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Sean",
+    "Beam": "Timon",
+    "MuPix": "Thomas",
+    "ATAR": null
+   }
+  },
+  {
+   "date": "2026-12-18",
+   "slots": {
+    "C": {
+     "RC": null,
+     "ATAR": "Adam",
+     "MS": "Kolja"
+    },
+    "A": {
+     "RC": "Tim G",
+     "ATAR": "Gianna",
+     "SUP": "Stefan",
+     "MS": "Wren"
+    },
+    "B": {
+     "RC": "Francesco",
+     "ATAR": null,
+     "SUP": "Jack",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 103"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Sean",
+    "Beam": "Timon",
+    "MuPix": "Thomas",
+    "ATAR": null
+   }
+  },
+  {
+   "date": "2026-12-19",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Adam",
+     "MS": "Kolja"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Gianna",
+     "SUP": "Stefan",
+     "MS": "Tim G"
+    },
+    "B": {
+     "RC": "Francesco",
+     "ATAR": "Jessie",
+     "SUP": "Patrick",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [],
+    "conf": ""
+   },
+   "oncall": {
+    "DAQ": "Sean",
+    "Beam": "Timon",
+    "MuPix": "Thomas",
+    "ATAR": null
+   }
+  },
+  {
+   "date": "2026-12-20",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Adam",
+     "MS": "Kolja"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Gianna",
+     "SUP": "Jack",
+     "MS": "Wren"
+    },
+    "B": {
+     "RC": null,
+     "ATAR": "Jessie",
+     "SUP": "Patrick",
+     "MS": "Francesco"
+    }
+   },
+   "satellite": {
+    "rooms": [],
+    "conf": ""
+   },
+   "oncall": {
+    "DAQ": "Sean",
+    "Beam": "Timon",
+    "MuPix": "Thomas",
+    "ATAR": null
+   }
+  },
+  {
+   "date": "2026-12-21",
+   "slots": {
+    "C": {
+     "RC": "Josh",
+     "ATAR": "Adam",
+     "MS": "Kolja"
+    },
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Andreas",
+     "SUP": "Jack",
+     "MS": "Wren"
+    },
+    "B": {
+     "RC": null,
+     "ATAR": "Jessie",
+     "SUP": "Patrick",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 101"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Josh",
+    "Beam": "Stefan",
+    "MuPix": "Marius",
+    "ATAR": "Jessie"
+   }
+  },
+  {
+   "date": "2026-12-22",
+   "slots": {
+    "A": {
+     "RC": "Quentin",
+     "ATAR": "Andreas",
+     "SUP": "Jack",
+     "MS": "Wren"
+    },
+    "B": {
+     "RC": "Francesco",
+     "ATAR": "Jessie",
+     "SUP": "Patrick",
+     "MS": "Timon"
+    }
+   },
+   "satellite": {
+    "rooms": [
+     "WBBC 101"
+    ],
+    "conf": "Yes"
+   },
+   "oncall": {
+    "DAQ": "Josh",
+    "Beam": "Stefan",
+    "MuPix": "Marius",
+    "ATAR": "Jessie"
+   }
+  }
+ ]
+}
