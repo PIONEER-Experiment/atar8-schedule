@@ -1,6 +1,6 @@
 {
  "title": "PIONEER PSI December Run 2026 - Shift Schedule",
- "updated": "2026-11-25 14:52",
+ "updated": "2026-11-25 14:53",
  "meeting": {
   "room": "TBD",
   "zoom": ""
@@ -270,15 +270,15 @@
      "MS": "Meghan"
     },
     "A": {
-     "RC": "Fred",
+     "RC": null,
      "ATAR": "Fred",
      "SUP": "Patrick",
      "MS": "Kolja"
     },
     "B": {
-     "RC": "Adam",
+     "RC": null,
      "ATAR": "Adam",
-     "SUP": "Stefan",
+     "SUP": "Jack",
      "MS": "Timon"
     }
    },
@@ -306,17 +306,17 @@
    "slots": {
     "C": {
      "RC": "Josh",
-     "ATAR": "Josh",
+     "ATAR": "Jessie",
      "MS": "Gianna"
     },
     "A": {
-     "RC": "Fred",
+     "RC": null,
      "ATAR": "Fred",
      "SUP": "Patrick",
      "MS": "Kolja"
     },
     "B": {
-     "RC": "Bradley",
+     "RC": null,
      "ATAR": "Bradley",
      "SUP": "Stefan",
      "MS": "Timon"
@@ -359,7 +359,7 @@
      "RC": "Peter",
      "ATAR": "Bradley",
      "SUP": "Jack",
-     "MS": "Jessie"
+     "MS": null
     }
    },
    "meeting": {
@@ -383,7 +383,7 @@
    "date": "2026-12-06",
    "slots": {
     "C": {
-     "RC": "Adam",
+     "RC": null,
      "ATAR": "Adam",
      "MS": "Gianna"
     },
@@ -426,7 +426,7 @@
      "MS": "Kolja"
     },
     "A": {
-     "RC": "Tim G",
+     "RC": null,
      "ATAR": "Andreas",
      "SUP": "Stefan",
      "MS": "Meghan"
