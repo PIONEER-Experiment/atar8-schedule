@@ -1,12 +1,39 @@
 {
  "title": "PIONEER PSI December Run 2026 - Shift Schedule",
- "updated": "2026-11-25 10:19",
+ "updated": "2026-11-25 10:23",
  "meeting": {
   "room": "TBD",
   "zoom": ""
  },
  "psiMap": "https://pocket.psi.ch/psimap",
  "weekendRoom": "No booking on weekends: use any room in WBGA",
+ "switchboard": [
+  {
+   "name": "Slack",
+   "desc": "Run channel",
+   "icon": "chat",
+   "url": ""
+  },
+  {
+   "name": "Elog",
+   "desc": "piM1 demo 2026",
+   "icon": "log",
+   "url": "https://maxwell.npl.washington.edu/elog/pioneer/piM1+demo+2026/"
+  },
+  {
+   "name": "Google Drive",
+   "desc": "Shared run folder",
+   "icon": "folder",
+   "url": "https://drive.google.com/drive/folders/0AFdHfk9oSHsFUk9PVA"
+  },
+  {
+   "name": "Calendar",
+   "desc": "Meetings + connection info",
+   "icon": "cal",
+   "url": ""
+  }
+ ],
+ "switchboardNote": "Slack, Drive and Calendar need your collaboration account: ask the run coordinators for access.",
  "shifts": [
   {
    "key": "C",
