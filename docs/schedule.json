@@ -1,6 +1,6 @@
 {
  "title": "PIONEER PSI December Run 2026 - Shift Schedule",
- "updated": "2026-11-25 10:38",
+ "updated": "2026-11-25 10:54",
  "meeting": {
   "room": "TBD",
   "zoom": ""
@@ -165,7 +165,7 @@
      "RC": "Peter",
      "ATAR": "Fred",
      "SUP": "Jack",
-     "MS": "Meghan"
+     "MS": null
     },
     "B": {
      "RC": null,
