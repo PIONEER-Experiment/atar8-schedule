@@ -1,11 +1,12 @@
 {
  "title": "PIONEER PSI December Run 2026 - Shift Schedule",
- "updated": "2026-11-25 09:38",
+ "updated": "2026-11-25 10:09",
  "meeting": {
-  "time": "16:00 (Zurich time)",
   "room": "TBD",
   "zoom": ""
  },
+ "psiMap": "https://pocket.psi.ch/psimap",
+ "weekendRoom": "No booking on weekends: use any room in WBGA",
  "shifts": [
   {
    "key": "C",
@@ -73,6 +74,30 @@
    ]
   }
  ],
+ "roleGuide": [
+  {
+   "name": "Run coordinator",
+   "text": "Defines the run plan according to the strategy agreed upon in the run meeting. Takes the lead in analysing the nearline histograms and prepares the report for the daily meeting."
+  },
+  {
+   "name": "Main shifter",
+   "text": "Controls the demonstrator through MIDAS. Documents the shift in the elog (run list, comments, links to other analysis elogs, etc.)."
+  },
+  {
+   "name": "ATAR",
+   "text": "Focuses on checking the behaviour of the ATAR. Can work on implementing/improving the ATAR DQM, nearline and ATAR reconstruction. Supports the run coordinator's studies."
+  },
+  {
+   "name": "Support / DAQ",
+   "text": "Focuses on the behaviour of the support detectors (MuPix, scintillators and calorimeter) and on the beam itself. Contacts the on-call expert if help is needed."
+  }
+ ],
+ "generalGuide": [
+  "The Day shifters are responsible for making sure we are taking data during the daily meeting. A video-conferencing system is in place in case some of the shifters need to stay in the counting room.",
+  "The run coordinators are responsible for planning an update for the daily meeting.",
+  "The counting room is small, so let's not overcrowd it: no more than 4 people in there at any time.",
+  "If you are feeling sick, do not come to the counting room. If you are unsure, wear a mask. Let's try not to take the entire team down with COVID."
+ ],
  "oncallKeys": [
   "DAQ",
   "Beam",
@@ -122,6 +147,12 @@
      "MS": null
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
+   },
    "satellite": {
     "rooms": [],
     "conf": ""
@@ -148,6 +179,12 @@
      "SUP": "Patrick",
      "MS": "Jessie"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
    },
    "satellite": {
     "rooms": [
@@ -177,6 +214,12 @@
      "SUP": "Jack",
      "MS": "Timon"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
    },
    "satellite": {
     "rooms": [
@@ -212,6 +255,12 @@
      "MS": "Timon"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "18:00",
+    "hours": 2,
+    "note": "Longer, in-depth reports welcome"
+   },
    "satellite": {
     "rooms": [
      "WBBC 105"
@@ -245,6 +294,12 @@
      "SUP": "Jack",
      "MS": "Timon"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
    },
    "satellite": {
     "rooms": [
@@ -280,6 +335,12 @@
      "MS": "Timon"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
+   },
    "satellite": {
     "rooms": [
      "WBBC 101"
@@ -314,6 +375,12 @@
      "MS": null
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "18:00",
+    "hours": 2,
+    "note": "Longer, in-depth reports welcome"
+   },
    "satellite": {
     "rooms": [],
     "conf": ""
@@ -346,6 +413,12 @@
      "MS": "Jessie"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
+   },
    "satellite": {
     "rooms": [],
     "conf": ""
@@ -377,6 +450,12 @@
      "SUP": "Patrick",
      "MS": "David G"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
    },
    "satellite": {
     "rooms": [
@@ -412,6 +491,12 @@
      "MS": "David G"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
+   },
    "satellite": {
     "rooms": [
      "WBBC 103"
@@ -445,6 +530,12 @@
      "SUP": "Patrick",
      "MS": "David G"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "18:00",
+    "hours": 2,
+    "note": "Longer, in-depth reports welcome"
    },
    "satellite": {
     "rooms": [
@@ -481,6 +572,12 @@
      "MS": "David G"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
+   },
    "satellite": {
     "rooms": [
      "WBBC 105"
@@ -514,6 +611,12 @@
      "SUP": "Patrick",
      "MS": "Timon"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
    },
    "satellite": {
     "rooms": [
@@ -549,6 +652,12 @@
      "MS": "David G"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "18:00",
+    "hours": 2,
+    "note": "Longer, in-depth reports welcome"
+   },
    "satellite": {
     "rooms": [],
     "conf": ""
@@ -581,6 +690,12 @@
      "MS": "Wren"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
+   },
    "satellite": {
     "rooms": [],
     "conf": ""
@@ -612,6 +727,12 @@
      "SUP": "Patrick",
      "MS": "Wren"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
    },
    "satellite": {
     "rooms": [
@@ -647,6 +768,12 @@
      "MS": "Wren"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
+   },
    "satellite": {
     "rooms": [
      "WBBC 103"
@@ -680,6 +807,12 @@
      "SUP": "Jack",
      "MS": "Timon"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "18:00",
+    "hours": 2,
+    "note": "Longer, in-depth reports welcome"
    },
    "satellite": {
     "rooms": [
@@ -715,6 +848,12 @@
      "MS": "Timon"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
+   },
    "satellite": {
     "rooms": [
      "WBBC 105"
@@ -748,6 +887,12 @@
      "SUP": "Jack",
      "MS": "Timon"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
    },
    "satellite": {
     "rooms": [
@@ -783,6 +928,12 @@
      "MS": "Timon"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "18:00",
+    "hours": 2,
+    "note": "Longer, in-depth reports welcome"
+   },
    "satellite": {
     "rooms": [],
     "conf": ""
@@ -814,6 +965,12 @@
      "SUP": "Patrick",
      "MS": "Francesco"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
    },
    "satellite": {
     "rooms": [],
@@ -847,6 +1004,12 @@
      "MS": "Timon"
     }
    },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
+   },
    "satellite": {
     "rooms": [
      "WBBC 101"
@@ -875,6 +1038,12 @@
      "SUP": "Patrick",
      "MS": "Timon"
     }
+   },
+   "meeting": {
+    "start": "16:00",
+    "end": "17:00",
+    "hours": 1,
+    "note": ""
    },
    "satellite": {
     "rooms": [
