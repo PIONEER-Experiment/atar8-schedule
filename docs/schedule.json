@@ -1,6 +1,6 @@
 {
  "title": "PIONEER PSI December Run 2026 - Shift Schedule",
- "updated": "2026-11-25 11:21",
+ "updated": "2026-11-25 14:52",
  "meeting": {
   "room": "TBD",
   "zoom": ""
@@ -136,7 +136,6 @@
   "Andreas",
   "Bradley",
   "Chloé",
-  "Dave",
   "David G",
   "Francesco",
   "Fred",
@@ -271,15 +270,15 @@
      "MS": "Meghan"
     },
     "A": {
-     "RC": null,
+     "RC": "Fred",
      "ATAR": "Fred",
      "SUP": "Patrick",
      "MS": "Kolja"
     },
     "B": {
-     "RC": null,
+     "RC": "Adam",
      "ATAR": "Adam",
-     "SUP": "Jack",
+     "SUP": "Stefan",
      "MS": "Timon"
     }
    },
@@ -307,17 +306,17 @@
    "slots": {
     "C": {
      "RC": "Josh",
-     "ATAR": "Jessie",
+     "ATAR": "Josh",
      "MS": "Gianna"
     },
     "A": {
-     "RC": null,
+     "RC": "Fred",
      "ATAR": "Fred",
      "SUP": "Patrick",
      "MS": "Kolja"
     },
     "B": {
-     "RC": null,
+     "RC": "Bradley",
      "ATAR": "Bradley",
      "SUP": "Stefan",
      "MS": "Timon"
@@ -360,7 +359,7 @@
      "RC": "Peter",
      "ATAR": "Bradley",
      "SUP": "Jack",
-     "MS": null
+     "MS": "Jessie"
     }
    },
    "meeting": {
@@ -384,7 +383,7 @@
    "date": "2026-12-06",
    "slots": {
     "C": {
-     "RC": null,
+     "RC": "Adam",
      "ATAR": "Adam",
      "MS": "Gianna"
     },
@@ -427,7 +426,7 @@
      "MS": "Kolja"
     },
     "A": {
-     "RC": "Dave",
+     "RC": "Tim G",
      "ATAR": "Andreas",
      "SUP": "Stefan",
      "MS": "Meghan"
@@ -467,7 +466,7 @@
      "MS": "Timon"
     },
     "A": {
-     "RC": "Dave",
+     "RC": null,
      "ATAR": "Andreas",
      "SUP": "Stefan",
      "MS": "Meghan"
@@ -507,7 +506,7 @@
      "MS": "Timon"
     },
     "A": {
-     "RC": "Dave",
+     "RC": null,
      "ATAR": "Andreas",
      "SUP": "Stefan",
      "MS": "Kolja"
@@ -583,7 +582,7 @@
    "date": "2026-12-11",
    "slots": {
     "C": {
-     "RC": "Dave",
+     "RC": null,
      "ATAR": "Andreas",
      "MS": "Adam"
     },
@@ -623,7 +622,7 @@
    "date": "2026-12-12",
    "slots": {
     "C": {
-     "RC": "Dave",
+     "RC": "Josh",
      "ATAR": "Andreas",
      "MS": "Kolja"
     },
@@ -661,7 +660,7 @@
    "date": "2026-12-13",
    "slots": {
     "C": {
-     "RC": "Dave",
+     "RC": null,
      "ATAR": "Andreas",
      "MS": "Timon"
     },
@@ -785,8 +784,8 @@
     },
     "A": {
      "RC": "Quentin",
-     "ATAR": null,
-     "SUP": "Patrick",
+     "ATAR": "Quentin",
+     "SUP": "Stefan",
      "MS": "Chloé"
     },
     "B": {
@@ -820,8 +819,8 @@
    "slots": {
     "C": {
      "RC": "Josh",
-     "ATAR": "Jessie",
-     "MS": null
+     "ATAR": "Josh",
+     "MS": "Jessie"
     },
     "A": {
      "RC": "Quentin",
@@ -859,7 +858,7 @@
    "date": "2026-12-18",
    "slots": {
     "C": {
-     "RC": null,
+     "RC": "Adam",
      "ATAR": "Adam",
      "MS": "Kolja"
     },
@@ -948,7 +947,7 @@
      "MS": "Wren"
     },
     "B": {
-     "RC": null,
+     "RC": "Jessie",
      "ATAR": "Jessie",
      "SUP": "Patrick",
      "MS": "Francesco"
@@ -986,7 +985,7 @@
      "MS": "Wren"
     },
     "B": {
-     "RC": null,
+     "RC": "Jessie",
      "ATAR": "Jessie",
      "SUP": "Patrick",
      "MS": "Timon"
