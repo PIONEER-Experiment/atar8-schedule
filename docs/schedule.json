@@ -1,9 +1,11 @@
 {
  "title": "PIONEER PSI December Run 2026 - Shift Schedule",
- "updated": "2026-11-26 08:55",
+ "updated": "2026-11-26 09:15",
  "meeting": {
   "room": "SZ-WBGB/020",
-  "zoom": ""
+  "zoom": "",
+  "zoomNote": "See the calendar invite",
+  "calendar": "https://calendar.google.com/calendar/event?eid=M2ozazV2cDJxNmxicGN2Y2xmZzBlZG84bzQgY21hbGJydW5vdEBt"
  },
  "psiMap": "https://pocket.psi.ch/psimap",
  "weekendRoom": "No booking on weekends: use any room in WBGA",
@@ -38,7 +40,7 @@
   {
    "key": "C",
    "name": "Owl",
-   "time": "00:00–08:30",
+   "time": "01:00–08:30",
    "roles": [
     {
      "key": "RC",
@@ -57,7 +59,7 @@
   {
    "key": "A",
    "name": "Day",
-   "time": "08:00–16:30",
+   "time": "08:00–17:30",
    "roles": [
     {
      "key": "RC",
@@ -80,7 +82,7 @@
   {
    "key": "B",
    "name": "Evening",
-   "time": "16:00–00:30",
+   "time": "16:00–01:30",
    "roles": [
     {
      "key": "RC",
