@@ -1,6 +1,6 @@
 {
  "title": "PIONEER PSI December Run 2026 - Shift Schedule",
- "updated": "2026-11-26 08:19",
+ "updated": "2026-11-26 08:52",
  "meeting": {
   "room": "SZ-WBGB/020",
   "zoom": ""
@@ -28,9 +28,9 @@
   },
   {
    "name": "Calendar",
-   "desc": "Meetings + connection info",
+   "desc": "Daily meeting series + connection info",
    "icon": "cal",
-   "url": ""
+   "url": "https://calendar.google.com/calendar/event?eid=N3B1aGdiNjdlZXA2Y2I2MW5yODdjYXB1bjEgY21hbGJydW5vdEBt"
   }
  ],
  "switchboardNote": "Slack, Drive and Calendar need your collaboration account: ask the run coordinators for access.",
